@@ -11,10 +11,10 @@ body
 .copy_right_footer
 {
     position: fixed;
-    color: #6c757d;
+    color: #f5f5f5;
     bottom: 0;
     width: 100%;
-    background-color: #f5f5f5;
+    background-color: #6c757d;
     line-height: 3;
     text-align: center;
 }
